@@ -1,0 +1,2 @@
+# Pricing-Analytics---Hotel-Pricing-through-Casual-Inference-Analysis
+I used 28 relevant attributes to price hotel rooms using casual inference analysis between price and demand. PCA and K-Means Clustering were used to compare prices only among rooms with similar enough features. The analysis only found which room type is more price sensitive, but also the main drivers of demand and prices, respectively. For more details, please refer to the PowerPoint presentation.
